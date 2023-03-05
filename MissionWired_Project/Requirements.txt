@@ -1,0 +1,22 @@
+
+# The Jupyter Notebook is a web-based interactive computing platform
+# python
+
+# package to install if not allready install
+
+# !pip install queries
+# !pip install sql-query
+# !pip install ipython-sql
+# !pip install --upgrade ipython
+# !pip install duckdb
+# !pip install pandasql
+
+# Library to import
+
+import pandas as pd
+import requests, os
+import pandasql as ps
+import duckdb
+import datetime
+from datetime import datetime
+from sklearn.impute import SimpleImputer
